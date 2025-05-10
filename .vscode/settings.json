@@ -1,3 +1,10 @@
 {
-   "workbench.colorTheme": "MasTerial theme" 
+   "workbench.colorTheme": "MasTerial theme",
+   "files.exclude": {
+      ".gitignore":true,
+      ".vscode":true,
+      "node_modules":true,
+      "*.bat":true,
+      "package*":true
+   }
 }
