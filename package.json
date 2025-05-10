@@ -1,0 +1,15 @@
+{
+  "name": "pdf_knitting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knitting.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "sabari",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "number-to-words": "^1.2.4",
+    "pdfkit": "^0.17.1"
+  }
+}
